@@ -1,0 +1,5 @@
+Converts a string of hex (multiples of 8 bytes) into a new string with parity.
+Will do even and odd parity.  Also has an option to remove parity from bytes.
+
+Really simple, unelegant hack.  Whipped this up really quickly as tool I was 
+using for my own development.

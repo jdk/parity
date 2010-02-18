@@ -173,7 +173,7 @@ int main(int argc, char **argv)
 		add_even_parity(input, inputSize, output, outputSize);
 
 		// Print Result
-		printf("Result:     ");
+		printf("\tResult:     ");
 		for (i = 0; i < outputSize; i++)
 		{
 			printf("%02X ", output[i]);
